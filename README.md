@@ -1,8 +1,14 @@
 # hellorust
 Getting familiar with rust things.
 
+## Setup
+**Install:**
+[Rust](https://www.rust-lang.org/tools/install)
+[C++ Build Tools](https://visualstudio.microsoft.com/downloads/)
+`cargo run`
 
-### Current:
+---
+## Current:
 Roguelike
 
-[2.1. --Iterating entities](https://bfnightly.bracketproductions.com/rustbook/chapter_2.html#iterating-entities---a-generic-render-system)
+[2.2. --Walking a Map](https://bfnightly.bracketproductions.com/rustbook/chapter_3.html)
