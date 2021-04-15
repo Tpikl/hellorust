@@ -11,4 +11,4 @@ Getting familiar with rust things.
 ## Current:
 Roguelike
 
-[2.2. --Walking a Map](https://bfnightly.bracketproductions.com/rustbook/chapter_3.html)
+[2.3. --More interesting Map](https://bfnightly.bracketproductions.com/rustbook/chapter_4.html)
