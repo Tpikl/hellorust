@@ -13,4 +13,4 @@ Getting familiar with rust things.
 ## Current:
 Roguelike
 
-[2.4. --Expanding map](https://bfnightly.bracketproductions.com/rustbook/chapter_5.html#expanding-map-to-include-revealed-tiles)
+[2.4. --Expanding map](https://bfnightly.bracketproductions.com/rustbook/chapter_5.html#speeding-it-up-even-more---recalculating-visibility-when-we-need-to)
